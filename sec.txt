@@ -1,1 +1,2 @@
 Hello, this is the second new file.
+Jus a new line to test
