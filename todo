@@ -1,0 +1,20 @@
+Have a clean git repo
+create a server setup
+buy a domain as low as you can - search internet
+Get the kubernates cluster ready - Make sure it can be created many times
+SO you should use terraform
+Put on the jenkins on the kubernates server 
+Put on Jfrog , Quality gates as containers and try to hold the data if you can -  make it persistant
+Get a three-tier or multi-tier arch application and make it communicate on kubernates
+Implement this on AWS
+Keep motivated, Keep automating, Keep learning
+
+
+Your responsible to automate all the task , 
+ - so Jenkins will do it step by step
+ - Docker will package and ship the application as a container
+ - Kubernates helps to make it stay active and auto scale
+ - Terraform automates the infra to help above
+
+Think in a way what you are automating and where the new concept is helping you in the automation.
+Go step by step
