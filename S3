@@ -1,0 +1,11 @@
+Create a bucket  
+Provide name "amazon3012"
+Disable ACL's
+BLOCK public access
+Versioning can be enabled if required
+Then create the bucket
+
+Provide required permissions via policies
+Allow static hosting - enable it 
+Allow Public access and allow the objects for public access
+try hitting the endpoint
